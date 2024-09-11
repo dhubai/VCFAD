@@ -1,0 +1,19 @@
+ECHO is on.
+
+# Virtual environment
+vcfad_env/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.wav
+*.mp3
+
+# System files
+__pycache__/
+*.pyc
+.DS_Store
+
